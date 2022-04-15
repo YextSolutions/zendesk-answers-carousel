@@ -7,5 +7,4 @@ One such way in the support space, is to call the [Universal Search Endpoint](ht
 Zendesk admins should reference this GitHub repo to see what changes are needed to implement an example of this carousel and achieve the below result. Simply copy and paste the provided code into the specified portal files, making sure to update the ‘REPLACE_ME…’ variables with your Yext-specific Answers Experience details.
 
 
-
-
+[Example Gif](https://drive.google.com/file/d/1G_iJd4tlhzCsisIcLQuzCLs8BwBKGQxX/view?usp=sharing)
